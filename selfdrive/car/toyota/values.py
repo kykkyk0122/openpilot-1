@@ -1,4 +1,4 @@
-from selfdrive.car import dbc_dict
+from selfdrive.car import dbc_dictt
 
 # Steer torque limits
 class SteerLimitParams:
